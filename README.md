@@ -11,4 +11,4 @@
 
 ### Créditos
 
-#### As bases de dados são da plataforma educacional OpenClassrooms.
+#### As bases de dados são da plataforma educacional OpenClassrooms. 
